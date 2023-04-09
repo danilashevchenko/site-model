@@ -2,7 +2,7 @@
 ---
 ![](https://github.com/danilashevchenko/pomodoro-timer/blob/main/cover.png?raw=true)
 <p align="center">
-    <em>Таймер Pomodoro. Реализован Шевченко Данилой.</em>
+    <em>Cайт "Model". Реализован Шевченко Данилой.</em>
 </p>
 
 ---
@@ -16,16 +16,10 @@
 
 </div>
 
-### **О чем проект?**
-
----
-**Pomodoro** — это настраиваемый таймер, который работает на всех видах устройств. Цель этого приложения — помочь пользователю сосредоточиться на задачах во время работы. Приложение основано на технике помидора, которая представляет собой метод управления временем, разработанный Франческо Чирилло.
-
 
 ### **Технологии:**
 ---
 + **Java Script**
-+ **PHP**
 + **HTML 5**
 + **CSS 3**
 
@@ -34,8 +28,8 @@
 ---
 
 
-![](https://github.com/danilashevchenko/pomodoro-timer/blob/main/cover_app.png?raw=true)
+![](https://github.com/danilashevchenko/site-model/blob/main/image/cover.png?raw=true)
 
 <div align="center">
-<a href="https://cw00361.tmweb.ru/pomodoro" class="gradient-button">Посмотреть Таймер</a>
+<a href="https://cw00361.tmweb.ru/model" class="gradient-button">Посмотреть сайт</a>
 </div>
